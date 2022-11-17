@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 int main() {
    float a,b,x,y,z;
    cin>>a>>b>>x>>y;
